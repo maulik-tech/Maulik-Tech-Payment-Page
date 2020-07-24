@@ -11,3 +11,6 @@ Pay online for website projects that you intent to create with [Maulik Tech](htt
 - [E-Commerce](https://www.mauliktech.com/#webdesign)
 - [Yearly Tune Ups](https://www.mauliktech.com/#webdesign)
 
+
+### To Make Payment Online [Click Here] 
+
