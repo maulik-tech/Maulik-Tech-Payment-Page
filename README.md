@@ -1,10 +1,6 @@
-# Accept payments with Stripe Checkout
+# Maulik Tech Online Page Payment Site <img src="https://www.dropbox.com/s/fkwxazpxdyqs3fv/icon-above-font.png?dl=0" align="center">
 
-Building payment form UI from scratch is difficult -- input field validation, error message handing, and localization are just a few things to think about when designing a simple checkout flow.
-
-We built [Checkout](https://stripe.com/docs/payments/checkout) to do that work for you so now you can focus on building the best storefront experience for your customers.
-
-Once your customer is ready to pay, use Stripe.js to redirect them to the URL of your Stripe hosted payment page. It's so simple you don't even need a server! 🥳
+A simple landing page for enabling customers pay online for their landing page/website projects.
 
 ## Demo
 
